@@ -39,5 +39,4 @@ def main():
 
         time.sleep(time_interval)
 
-if __name__ == '__main__':
-    main()
+main()
